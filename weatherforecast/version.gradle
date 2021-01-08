@@ -1,0 +1,6 @@
+ext {
+    COROUTINES_VERSION = "1.4.2"
+    LIVEDATA_VERSION = "2.2.0"
+    RETROFIT_VERSION = "2.9.0"
+    GSON_VERSION = "2.8.6"
+}

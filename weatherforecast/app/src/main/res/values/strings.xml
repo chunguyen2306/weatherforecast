@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="city_input_text_auto_fill">Input city name</string>
+    <string name="button_get_weather">Get Weather</string>
+
+    <string name="date_text_holder">Date: %s</string>
+    <string name="avg_temp_text_holder">Average temperature: %s</string>
+    <string name="pressure_text_holder">Pressure: %s</string>
+    <string name="humidity_text_holder">Humidity: %s %%</string>
+    <string name="description_text_holder">Description: %s</string>
+
+    <string name="weather_data_error">Error retrieving weather data</string>
+    <string name="weather_data_invalid_search_error">Invalid search name</string>>
+</resources>
